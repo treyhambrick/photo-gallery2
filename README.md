@@ -1,13 +1,11 @@
 
----
-permalink: /index.html
----
 
-# photo-gallery
+
+# photo-gallery CDC
 
 ## Project setup
 ```
-npm install
+npm install CDC
 ```
 
 ### Compiles and hot-reloads for development
