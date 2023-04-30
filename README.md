@@ -7,7 +7,7 @@ permalink: /index.html
 
 ## Project setup
 ```
-npm install CDCxxxxx
+npm install CDCxxxxxccccc
 ```
 
 ### Compiles and hot-reloads for development
