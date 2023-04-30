@@ -3,7 +3,7 @@
 permalinkxxx: public/index.html
 ---
 
-# photo-gallery
+# photo-gallery2
 
 ## Project setup
 ```
