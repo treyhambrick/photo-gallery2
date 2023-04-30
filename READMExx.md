@@ -1,13 +1,13 @@
 
 ---
-permalink: /index.html
+permalinkxxx: public/index.html
 ---
 
 # photo-gallery
 
 ## Project setup
 ```
-npm install CDCxxxxxccccc
+npm install CDCxxxxxccccc......
 ```
 
 ### Compiles and hot-reloads for development
